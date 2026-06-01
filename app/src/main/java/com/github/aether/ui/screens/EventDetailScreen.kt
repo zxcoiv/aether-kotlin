@@ -15,6 +15,7 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Air
 import androidx.compose.material.icons.filled.ArrowBack
+import androidx.compose.material.icons.filled.ArrowBackIosNew
 import androidx.compose.material.icons.filled.CalendarToday
 import androidx.compose.material.icons.filled.CropFree
 import androidx.compose.material.icons.filled.DeviceThermostat
@@ -56,7 +57,7 @@ fun EventDetailScreen(
                 title = { Text(event?.type ?: "Detalhe", fontWeight = FontWeight.Bold) },
                 navigationIcon = {
                     IconButton(onClick = onNavigateBack) {
-                        Icon(Icons.Default.ArrowBack, contentDescription = "Voltar")
+                        Icon(Icons.Default.ArrowBackIosNew, contentDescription = "Voltar")
                     }
                 }
             )
