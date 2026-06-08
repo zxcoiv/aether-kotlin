@@ -42,7 +42,7 @@ O app centraliza essas informações em painéis visuais, permitindo que usuári
 │                        Home                          │
 │  [Eventos]         [Satélites]        [Alertas]      │
 └────┬───────────────────┬───────────────────┬─────────┘
-     ▼                  ▼                 ▼
+     ▼                   ▼                   ▼
 ┌─────────┐       ┌────────────┐      ┌──────────┐
 │ Eventos │       │ Satélites  │      │ Alertas  │
 └────┬────┘       └────────────┘      └──────────┘
