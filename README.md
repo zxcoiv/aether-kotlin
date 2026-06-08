@@ -31,6 +31,17 @@ O app centraliza essas informações em painéis visuais, permitindo que usuári
 
 ---
 
+## Telas (Screenshots)
+
+<img width="383" height="854" alt="Home" src="https://github.com/user-attachments/assets/fcaf80a5-dfb6-4c7f-adcc-62aecfc15e70" />
+<img width="380" height="851" alt="Tela de eventos ambientais" src="https://github.com/user-attachments/assets/f0f8aac7-ca74-4673-a101-31ce8d2c7986" />
+<img width="378" height="854" alt="Tela em eventos ambientais mostrando filtro funcional" src="https://github.com/user-attachments/assets/a0c306ca-f5d2-44bd-90d6-4a2b4091afb4" />
+<img width="378" height="851" alt="Tela de detalhes do evento" src="https://github.com/user-attachments/assets/d32bfba0-86b8-40fb-abfe-baf88d1e0687" />
+<img width="380" height="850" alt="Tela de satélites" src="https://github.com/user-attachments/assets/aa96fc6c-b701-405b-8916-cda6c8ce6e48" />
+<img width="374" height="849" alt="Tela de alertas (e notificação)" src="https://github.com/user-attachments/assets/1e4761cf-7f55-4792-8240-67545b2dd3a9" />
+
+---
+
 ## Fluxo de Navegação
 
 ```
